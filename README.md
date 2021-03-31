@@ -13,10 +13,8 @@
 * [How to win Apple's WWDC Swift Student Challenge Get started with iOS Dev Wendy's Ace Story](https://youtu.be/Y3mELKEnRz8)
 * [Amit Samant's Ace Story From a Tier-3 Indian college to winning Apple's WWDC Scholarship](https://youtu.be/gug0k1NOoJ0)
 
-<p align=center>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y3mELKEnRz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gug0k1NOoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<iframe width="372" height="209" src="https://www.youtube-nocookie.com/embed/Y3mELKEnRz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="372" height="209" src="https://www.youtube-nocookie.com/embed/gug0k1NOoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 👩‍💻 Get connected
 * [WWDC Scholars Discord Server](https://discord.com/invite/Y426A42) (Must Join, former winners are really friendly and helpful)
@@ -31,6 +29,11 @@
 * [Create Swift Playgrounds content for iPad and Mac](https://developer.apple.com/videos/play/wwdc2020/10654/) by Apple
 * [Authoring Playground Books with Bluefruit for iOS](https://learn.adafruit.com/create-a-swift-playgroundbook-with-bluetooth-le)
 
+<video width="372" height="209" controls="" src="https://devstreaming-cdn.apple.com/videos/wwdc/2020/10654/4/6E1BE6B9-0F1A-4F75-AC96-E72CF0C6FFC1/master.m3u8">
+</video>
+<video width="372" height="209" controls="" src="https://devstreaming-cdn.apple.com/videos/wwdc/2020/10654/4/6E1BE6B9-0F1A-4F75-AC96-E72CF0C6FFC1/master.m3u8" >
+</video>
+
 ### 📝 Playground Markup
 * [How to create interactive Swift playgrounds](https://www.hackingwithswift.com/articles/78/how-to-create-interactive-swift-playgrounds) by [Paul Hudson](https://twitter.com/twostraws)
 * [Xcode: Markup For Playgrounds](https://twitter.com/hanning_thomas) by [Thomas Hanning](https://twitter.com/hanning_thomas)
@@ -40,4 +43,8 @@
 
 * [How to create live playgrounds in Xcode](https://www.hackingwithswift.com/example-code/uikit/how-to-create-live-playgrounds-in-xcode) by [Paul Hudson](https://twitter.com/twostraws)
 * [Build a SwiftUI view in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2020/10643) by Apple
-* [How to use SwiftUI in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2020/10643) by [Meng To](https://twitter.com/MengTo)
+* [How to use SwiftUI in Swift Playgrounds](https://youtu.be/me66R7uMyAc) by [Meng To](https://twitter.com/MengTo)
+
+<video width="372" height="209" controls="" src="https://devstreaming-cdn.apple.com/videos/wwdc/2020/10643/4/1EF945FC-088B-4D21-9838-F7CE638EF399/master.m3u8">
+</video>
+<iframe width="372" height="209" src="https://www.youtube-nocookie.com/embed/me66R7uMyAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
