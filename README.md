@@ -12,7 +12,11 @@
 * [What It Was Like to Win the Apple WWDC Scholarship in 2019](https://betterprogramming.pub/winning-the-apple-wwdc-scholarship-2019-f694d603d626) by [Rudrank Riyam](https://twitter.com/rudrankriyam)
 * [How to win Apple's WWDC Swift Student Challenge Get started with iOS Dev Wendy's Ace Story](https://youtu.be/Y3mELKEnRz8)
 * [Amit Samant's Ace Story From a Tier-3 Indian college to winning Apple's WWDC Scholarship](https://youtu.be/gug0k1NOoJ0)
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gug0k1NOoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>
+<iframe src="https://www.youtube-nocookie.com/embed/gug0k1NOoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/Y3mELKEnRz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## 👩‍💻 Get connected
 * [WWDC Scholars Discord Server](https://discord.com/invite/Y426A42) (Must Join, former winners are really friendly and helpful)
