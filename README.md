@@ -39,7 +39,7 @@
 * [Write SwiftUI Entirely on an iPad Using Swift Playgrounds](https://betterprogramming.pub/write-swiftui-entirely-on-an-ipad-using-swift-playgrounds-f48364e50c9a) by [Rob Sturgeon](https://twitter.com/SturdySturge)
 
 ## WWDC Students Submissions
-*Playgrounds submitted by students for the WWDC scholarship*
+*Playgrounds submitted by students for the WWDC & Swift Student Challenge scholarship*
 
 - [2020](https://github.com/wwdc/2020)
 - [2019](https://github.com/wwdc/2019)
