@@ -2,7 +2,7 @@
      height="400" /></p>
 #WWDC Scholarship Resources
 
-## Get Inspired
+## ✨ Get Inspired
 
 * [A portfolio website for all Apple WWDC Scholarship / Swift Student Challenge Winners](https://www.wwdcscholars.com)
 * [This page features the lists of WWDC scholarship entrants from each year, beginning in 2014](https://github.com/wwdc)
@@ -11,25 +11,25 @@
 * [How to win Apple's WWDC Swift Student Challenge | Get started with iOS Dev |Wendy's Ace Story](https://youtu.be/Y3mELKEnRz8)
 * [Amit Samant's Ace Story | From a Tier-3 Indian college to winning Apple's WWDC Scholarship](https://youtu.be/gug0k1NOoJ0)
 
-## Get connected
+## 👩‍💻 Get connected
 * [WWDC Scholars Discord Server](https://discord.com/invite/Y426A42) (Must Join, former winners are really friendly and helpful)
 
 
 
-## Developement Resources
+## 🛠 Developement Resources
 
-### Playground book
+### 📙 Playground book
 * [Creating and Running a Playground Book](https://developer.apple.com/documentation/swift_playgrounds/creating_and_running_a_playground_book) by Apple
 * [Swift Playground Author template](https://developer.apple.com/download/more/?=Swift%20Playgrounds%20Author%20Template) by Apple
 * [Create Swift Playgrounds content for iPad and Mac](https://developer.apple.com/videos/play/wwdc2020/10654/) by Apple
 * [Authoring Playground Books with Bluefruit for iOS](https://learn.adafruit.com/create-a-swift-playgroundbook-with-bluetooth-le)
 
-### Playground Markup
+### 📝 Playground Markup
 * [How to create interactive Swift playgrounds](https://www.hackingwithswift.com/articles/78/how-to-create-interactive-swift-playgrounds) by [Paul Hudson](https://twitter.com/twostraws)
 * [Xcode: Markup For Playgrounds](https://twitter.com/hanning_thomas) by [Thomas Hanning](https://twitter.com/hanning_thomas)
 * [Markup Formatting Reference](https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/) by Apple
 
-### Tutorials
+### 🖥 Tutorials
 
 * [How to create live playgrounds in Xcode](https://www.hackingwithswift.com/example-code/uikit/how-to-create-live-playgrounds-in-xcode) by [Paul Hudson](https://twitter.com/twostraws)
 * [Build a SwiftUI view in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2020/10643) by Apple
