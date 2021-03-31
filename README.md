@@ -1,6 +1,6 @@
 <p align=center><img src="figure_large_medium-1000x1000.png" 
      height="400" /></p>
-#WWDC Scholarship Resources
+# WWDC Scholarship Resources
 
 ## ✨ Get Inspired
 
