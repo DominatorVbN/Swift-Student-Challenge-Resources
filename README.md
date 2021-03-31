@@ -13,9 +13,9 @@
 * [How to win Apple's WWDC Swift Student Challenge Get started with iOS Dev Wendy's Ace Story](https://youtu.be/Y3mELKEnRz8)
 * [Amit Samant's Ace Story From a Tier-3 Indian college to winning Apple's WWDC Scholarship](https://youtu.be/gug0k1NOoJ0)
 
-<p>
-<iframe src="https://www.youtube-nocookie.com/embed/gug0k1NOoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://www.youtube-nocookie.com/embed/Y3mELKEnRz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align=center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y3mELKEnRz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gug0k1NOoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## 👩‍💻 Get connected
