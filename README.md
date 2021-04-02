@@ -35,3 +35,16 @@
 * [How to create live playgrounds in Xcode](https://www.hackingwithswift.com/example-code/uikit/how-to-create-live-playgrounds-in-xcode) by [Paul Hudson](https://twitter.com/twostraws)
 * [Build a SwiftUI view in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2020/10643) by Apple
 * [How to use SwiftUI in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2020/10643) by [Meng To](https://twitter.com/MengTo)
+* [Learn SwiftUI Using Swift Playgrounds for iPad and Mac](https://www.appcoda.com/swiftui-swift-playgrounds-ipad-mac/) by AppCoda
+* [Write SwiftUI Entirely on an iPad Using Swift Playgrounds](https://betterprogramming.pub/write-swiftui-entirely-on-an-ipad-using-swift-playgrounds-f48364e50c9a) by [Rob Sturgeon](https://twitter.com/SturdySturge)
+
+## WWDC Students Submissions
+*Playgrounds submitted by students for the WWDC & Swift Student Challenge scholarship*
+
+- [2020](https://github.com/wwdc/2020)
+- [2019](https://github.com/wwdc/2019)
+- [2018](https://github.com/wwdc/2018)
+- [2017](https://github.com/wwdc/2017)
+- [2016](https://github.com/wwdc/2016)
+- [2015](https://github.com/wwdc/2015)
+- [2014](https://github.com/wwdc/2014)
