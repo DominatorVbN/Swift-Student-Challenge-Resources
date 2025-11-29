@@ -40,7 +40,11 @@
 
 ## WWDC Students Submissions
 *Playgrounds submitted by students for the WWDC & Swift Student Challenge scholarship*
-
+- [2025](https://github.com/wwdc/2025)
+- [2024](https://github.com/wwdc/2024)
+- [2023](https://github.com/wwdc/2023)
+- [2022](https://github.com/wwdc/2022)
+- [2021](https://github.com/wwdc/2021)
 - [2020](https://github.com/wwdc/2020)
 - [2019](https://github.com/wwdc/2019)
 - [2018](https://github.com/wwdc/2018)
